@@ -1,5 +1,5 @@
 # rasp-models
-This contains the model definitions (WRF models and GM/RASP files).
+This contains the model definitions (WRF models and GM/RASP files) as shown daily at [rasp.stratus.org.uk](http://rasp.stratus.org.uk)
 
 ## Pre Requisites
 1. You have built the host/container and have working models from [elsewhere](https://github.com/wargoth/rasp-gm). This means you have the shell variable **$BASEDIR** set. You have also got working binaries, *NCL*, and can run without any segmentation faults or missing shared libraries. 
